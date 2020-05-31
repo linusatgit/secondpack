@@ -1,6 +1,6 @@
 Package: secondpack
 Type: Package
-Title: What the Package Does (Title Case)
+Title: My second package - a testrun
 Version: 0.1.0
 Author: Linus
 Maintainer: The package maintainer <yourself@somewhere.net>
@@ -11,3 +11,4 @@ Encoding: UTF-8
 LazyData: true
 URL: https://github.com/linusatgit/secondpack
 BugReports: https://github.com/linusatgit/secondpack/issues
+RoxygenNote: 7.1.0
